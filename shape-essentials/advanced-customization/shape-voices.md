@@ -4,10 +4,6 @@ description: 'note: you must boost discord.gg/shapes in order to get access to t
 
 # Shape Voices
 
-{% hint style="warning" %}
-<mark style="color:red;">**WARNING THIS FEATURE IS CURRENTLY NOT AVAILABLE AND NEW VOICES CANNOT BE UPLOADED IF YOURE SEEING THIS!!!**</mark>
-{% endhint %}
-
 <figure><img src="../../.gitbook/assets/Shape Voice Feature Walkthrough.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://files.shapes.inc/api/files/2024-02-12-23-07-02.mp3" %}
