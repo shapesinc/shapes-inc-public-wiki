@@ -41,6 +41,7 @@
   * [External code commands](shape-essentials/frequently-asked-questions/external-code-commands.md)
   * [How can I make my shape use custom discord emojis?](shape-essentials/frequently-asked-questions/how-can-i-make-my-shape-use-custom-discord-emojis.md)
   * [I added my shape to a server but it didn't join!](shape-essentials/frequently-asked-questions/i-added-my-shape-to-a-server-but-it-didnt-join.md)
+  * [I finished creating a shape and added it to my server but its offline.](shape-essentials/frequently-asked-questions/i-finished-creating-a-shape-and-added-it-to-my-server-but-its-offline..md)
   * [Login with X](shape-essentials/frequently-asked-questions/login-with-x.md)
   * [\[Message Blocked\]](shape-essentials/frequently-asked-questions/message-blocked.md)
   * [Message Delivery](shape-essentials/frequently-asked-questions/message-delivery.md)
