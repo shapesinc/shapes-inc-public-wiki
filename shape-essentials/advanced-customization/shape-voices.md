@@ -57,3 +57,7 @@ The usual go to for voice samples are:
 * and gender matters, a masculine voice will be vastly different to a feminine or androgynous voice
 * be careful with interjections! They can modify how some things are pronounced
 * when using multiple speakers in a sample, make sure the one you want to hear more often is louder and more consistent! Otherwise the AI will tend to take the median (average) sounds of the speakers
+
+{% hint style="warning" %}
+If you unboost the server, your shape's voice and it's settings will be **deleted.**
+{% endhint %}
