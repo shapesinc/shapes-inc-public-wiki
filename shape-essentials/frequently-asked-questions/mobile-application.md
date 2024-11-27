@@ -9,7 +9,7 @@ description: >-
 ## Progressive Web Apps
 
 Shapes, Inc cannot be found in the Google Play Store or the Apple Store but you can install a Shapes, Inc PWA application via the website. A PWA (Progressive Web Apps) is an application that is pretending to be an app and can be installed on all devices; a laptop, desktop, tablet or a mobile phone. \
-_You don't need to install this to use Shapes, Inc., it's completely optional!_
+&#xNAN;_&#x59;ou don't need to install this to use Shapes, Inc., it's completely optional!_
 
 Below you can see how to install it on [<mark style="color:purple;">**iO**</mark>](mobile-application.md#ios-app)[<mark style="color:purple;">**S**</mark> ](mobile-application.md#ios-app)or [<mark style="color:purple;">**Android**</mark>](mobile-application.md#android-devices-app) device.
 

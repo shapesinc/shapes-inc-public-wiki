@@ -16,7 +16,7 @@ TYPES OF INFORMATION WE COLLECT
 
 (i) Personal Information. This is information that directly or indirectly identifies you, such as your name, email address, credit card information, or other identifying information about you, or information that would, when combined with other information you provide or that is broadly available, be likely to identify you.
 
-(ii) Other Information_._ Other Information is information that is not Personal Information. Other Information does not, by itself, individually identify you, such as browser type, operating system, technical data, and usage. We may link together different types of Other Information or link Other Information to Personal Information.
+(ii) Other Informatio&#x6E;_._ Other Information is information that is not Personal Information. Other Information does not, by itself, individually identify you, such as browser type, operating system, technical data, and usage. We may link together different types of Other Information or link Other Information to Personal Information.
 
 (b) You may interact with Circle Labs in ways that require Circle Labs to gather Personal Information. The amount and type of information that Circle Labs gathers depends on the nature of your interaction with the Services (and the Resources provided therein). For example, when you sign up for an account with Circle Labs, we will ask you to provide your name and email address. Circle Labs collects only such information as is legal and appropriate. We also collect and store all chats and conversations entered through the Services for product improvement and safety compliance purposes in a human readable format.
 

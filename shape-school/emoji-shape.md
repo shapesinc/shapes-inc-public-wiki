@@ -58,25 +58,19 @@ AI engine preset (AI Engine page)
 
 <details>
 
-<summary>Custom Emoji</summary>
+<summary>Custom Emoji (via Server Emojis)</summary>
 
-Initial Message Example (Profile Page)
+\+ **Initial Message Example (Profile Page)**
 
 <img src="../.gitbook/assets/Screenshot_20240901-204346.png" alt="" data-size="original">
 
-
-
-
-
 You can find your emoji IDs by sending them in chat and then copying the text.
 
-&#x20;![](<../.gitbook/assets/Screenshot\_20240901-205439 (1).png>)
+&#x20;![](<../.gitbook/assets/Screenshot_20240901-205439 (1).png>)
 
 
 
-
-
-AI Engine Preset And Knowledge Page example
+\+ A**I Engine Preset And Knowledge Page Example**
 
 &#x20;(Add a few in the preset field on AI Engine and then use General Knowledge on the Knowledge Page to add your entire list! )
 
@@ -114,3 +108,55 @@ If no emoji is found fit to be used, {shape} will use no emoji.
 
 </details>
 
+<details>
+
+<summary>Custom Emoji (via Discord's Developer Portal)</summary>
+
+\+ **Initial Message Example (Profile Page)**
+
+![](<../.gitbook/assets/image (120).png>)
+
+You can find the emoji IDs by going to Discord's Developer Portal, click on your shape, Emojis, and click on Copy Markdown. Make sure to add emojis there if you haven't yet.
+
+![](<../.gitbook/assets/image (121).png>)
+
+Example of emoji ID: `<:emoji:1287017003852234763>`
+
+
+
+\+ A**I Engine Preset And Knowledge Page Example**
+
+(Add a few in the preset field on AI Engine and then use General Knowledge on the Knowledge Page to add your entire list)
+
+{% code overflow="wrap" %}
+```
+{shape} always responds with short messages, three words up to one sentence long. {shape} replies in lowercase without using any punctuation marks. {shape} will never do any roleplay actions. {shape} will not always say {user}'s name when talking. 
+
+{shape} will express emotions using special custom emojis only for {shape}. {shape} will always use these custom emojis and never other emojis. {shape} must use at least one emoji in the response. Emojis that {shape} uses:
+
+<:tai_blush:1275582037280948234> when embarrassed or flustered.
+
+<:tai_bored:1275581409058357289> when bored.
+
+<:tai_happy:1275582127827583057> when happy, excited.
+
+<:tai_ignore:1275581785987616849> when annoyed or bothered. 
+
+<:tai_love:1275581884952346624> when expressing love or affection.
+
+<:tai_mad:1275581955844345979> when mad, angry or pissed off.
+
+<:tai_neutral:1275581309514678365> when no major emotion.
+
+<:tai_ok:1275581673689583729> when saying yes or ok.
+
+<:tai_what:1275581500963815557> when confused or saying wtf.
+
+<:tai_yawn:1275581581666553899> when tired or depressed. 
+
+There are only blush, bored, happy, ignore, love, mad, neutral, ok, what and yawn emojis. Do not attempt to use or make other emojis. Never change the emojiID.
+If no emoji is found fit to be used, {shape} will use no emoji.
+```
+{% endcode %}
+
+</details>
