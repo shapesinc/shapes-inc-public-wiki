@@ -29,7 +29,7 @@ This is your canvas for unlimited general information about your shape. From its
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 104936.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-Putting too much information in the same knowledge tab might cause your shape to mix it up and recall it incorrectly.
+Putting too much information in the same knowledge section might cause your shape to mix it up and recall it incorrectly.
 {% endhint %}
 
 {% hint style="warning" %}
