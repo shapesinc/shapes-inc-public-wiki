@@ -26,14 +26,14 @@ _**For example:** If you add_ [_https://domain.link_](https://domain.link/home)[
 
 This is your canvas for unlimited general information about your shape. From its origin story to its quirks, share everything that {user} (the person wanting to talk to your shape) might find interesting.
 
-{% hint style="warning" %}
-Please use **English** for any stored knowledge, as information inputted in other languages won't be recalled nor remembered.
-{% endhint %}
-
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 104936.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Putting too much information in the same knowledge tab might cause your shape to mix it up and recall it incorrectly.
+{% endhint %}
+
+{% hint style="warning" %}
+Please use **English** for any stored knowledge, as information inputted in other languages won't be recalled nor remembered.
 {% endhint %}
 
 {% hint style="success" %}
