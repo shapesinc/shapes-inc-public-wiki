@@ -32,6 +32,16 @@ Please use **English** for any stored knowledge, as information inputted in othe
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 104936.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
+Putting too much information in the same knowledge tab might cause your shape to mix it up and recall it incorrectly.
+{% endhint %}
+
+{% hint style="success" %}
+To ensure your shape recalls knowledge as accurately as possible, set the knowledge similarity threshold to 0.3 or lower in the [AI Engine tab](ai-engine/#knowledge).
+{% endhint %}
+
+
+
 ## No-Code Commands
 
 Configure custom commands to enhance the interaction with your shape. Here are a few examples:&#x20;
