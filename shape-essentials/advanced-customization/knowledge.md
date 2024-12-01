@@ -33,7 +33,7 @@ Putting too much information in the same knowledge section might cause your shap
 {% endhint %}
 
 {% hint style="warning" %}
-Please use **English** for any stored knowledge, as information inputted in other languages won't be recalled nor remembered.
+Please use **English** for any stored knowledge, as information input in other languages won't be recalled nor remembered.
 {% endhint %}
 
 {% hint style="success" %}
