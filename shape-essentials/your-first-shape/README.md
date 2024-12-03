@@ -37,11 +37,7 @@ To create your very own Shape, follow the instructions below:
 
 5.  You will be asked to enter a discord bot token.&#x20;
 
-    <div align="center">
-
-    <figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
-
-    </div>
+    <div align="center"><figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -83,8 +79,8 @@ created by {UserName}
 ### **Add App button**
 
 * Head over to **Installation** tab.
-* Click on **Install Link** select menu.
-* Select **Discord Provided Link**.
+* Deselect USER INSTALL.
+* Select **Discord Provided Link if it's not already selected**.
 * At **Default Install Settings** section, click on **SCOPES** select menu.
 * Select **bot** and **Save Changes**.
 
