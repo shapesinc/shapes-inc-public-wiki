@@ -12,7 +12,7 @@ description: >-
 
 <summary>Tenshi</summary>
 
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **Discord Creator:**&#x20;
 
@@ -26,7 +26,7 @@ Tenshi's an 18-year-old girl who's always on the lookout for the next laugh and 
 
 <img src="../.gitbook/assets/Screenshot 2024-05-29 at 1.29.18 PM.png" alt="" data-size="original">
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **Shape Settings**
 
@@ -101,7 +101,7 @@ AI Engine → Generation → Model → AI Model&#x20;
 llama 3 instruct
 ```
 
-[**Click here to add Tenshi to your server!**](https://discord.com/oauth2/authorize?client\_id=1114024040173142136\&permissions=67584\&scope=bot)
+[**Click here to add Tenshi to your server!**](https://discord.com/oauth2/authorize?client_id=1114024040173142136\&permissions=67584\&scope=bot)
 
 </details>
 
@@ -196,7 +196,7 @@ AI Engine → Generation → Model → AI Model
 Gemini
 ```
 
-[**Click here to add Blizzy to your server!**](https://discord.com/oauth2/authorize?client\_id=1228105475762032721\&permissions=67584\&scope=bot)
+[**Click here to add Blizzy to your server!**](https://discord.com/oauth2/authorize?client_id=1228105475762032721\&permissions=67584\&scope=bot)
 
 </details>
 
@@ -322,7 +322,7 @@ AI Engine → Generation → Model → AI Model
 4o
 ```
 
-[**Click here to add Layla to your server!** ](https://discord.com/oauth2/authorize?client\_id=1239588091631632414\&permissions=67584\&scope=bot)
+[**Click here to add Layla to your server!** ](https://discord.com/oauth2/authorize?client_id=1239588091631632414\&permissions=67584\&scope=bot)
 
 </details>
 
@@ -381,7 +381,7 @@ AI Engine → Generation → Model → AI Model
 Gemini
 ```
 
-[**Click here to add Peter to your server!** ](https://discord.com/oauth2/authorize?client\_id=1245229137417994352\&permissions=67584\&scope=bot)
+[**Click here to add Peter to your server!** ](https://discord.com/oauth2/authorize?client_id=1245229137417994352\&permissions=67584\&scope=bot)
 
 </details>
 
@@ -389,7 +389,7 @@ Gemini
 
 <summary>Anon</summary>
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)\
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)\
 \
 **Discord Creator:**&#x20;
 
@@ -400,11 +400,11 @@ Gemini
 Anon is a 20-year-old who helps share knowledge about shapes and addresses questions about shapes in discord servers. Anon has a straightforward personality and is non-caring towards people. He is professional and chill when helping others.
 
 **Conversation Examples:**\
-![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 **Shape Settings**
 
@@ -611,7 +611,7 @@ AI Engine → Generation → Model → AI Model
 gemini
 ```
 
-[**Click here to add Anon to your server!** ](https://discord.com/oauth2/authorize?client\_id=1229808541750267904\&permissions=67584\&scope=bot)
+[**Click here to add Anon to your server!** ](https://discord.com/oauth2/authorize?client_id=1229808541750267904\&permissions=67584\&scope=bot)
 
 </details>
 
@@ -688,6 +688,6 @@ AI Engine → Generation → Model → AI Model&#x20;
 llama 3 instruct
 ```
 
-[**Click here to add Akira to your server!**](https://discord.com/oauth2/authorize?client\_id=1205389457528852480\&permissions=0\&scope=bot)
+[**Click here to add Akira to your server!**](https://discord.com/oauth2/authorize?client_id=1205389457528852480\&permissions=0\&scope=bot)
 
 </details>

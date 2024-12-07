@@ -57,7 +57,7 @@ Customize how your shape communicates. Options include talking style, such as se
 **Use only one option—blacklist or whitelist.** Using both can cause bugs and might make your shape continue interacting in unwanted channels.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Response Moderation (Beta)
 

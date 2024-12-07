@@ -65,17 +65,9 @@ Manage your shape's response generation in this section. Adjust creativity with 
 
 In this section, decide whether your shape should be aware of the current time with the timezone you selected.
 
-<div data-full-width="true">
+<div data-full-width="true"><figure><img src="../../../.gitbook/assets/Screenshot 2024-04-24 082122.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-04-24 082122.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div data-full-width="true">
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-04-24 082051.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../../../.gitbook/assets/Screenshot 2024-04-24 082051.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Short-Term Memory (STM)
 
@@ -113,7 +105,7 @@ Memory Similarity Threshold dictates what long-term memories are retrieved for a
 
 :factory: We recommend setting your Memory Similarity Threshold at 0.8
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Frequency&#x20;
 
@@ -134,7 +126,7 @@ Adjust the privacy settings to tailor how private your shape keeps conversations
 Decreasing **Frequency** between 1000-2000 breaks the shape.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Knowledge
 
