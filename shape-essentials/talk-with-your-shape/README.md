@@ -12,14 +12,14 @@ Hi! Since you're here, it means that you've made your shape but are having a har
    Visit [https://shapes.inc/explore](https://shapes.inc/explore) and make sure you're logged in.
 2. **Find Your Shape**\
    Scroll down to the **My Shapes** section and select the shape you want to interact with.\
-   ![](../../.gitbook/assets/image.png)
+   ![](<../../.gitbook/assets/image (7).png>)
 3. **Access Your Shape's Dashboard**\
    Once you've clicked on your shape, you'll land on its dashboard.
    * **For smartphone users**: Open the selection menu.\
-     ![](<../../.gitbook/assets/image (1).png>)
+     ![](<../../.gitbook/assets/image (1) (1).png>)
 4. **Add Your Shape to a Server**\
    Click on the **Add to Server** tab.\
-   ![](<../../.gitbook/assets/image (2).png>)
+   ![](<../../.gitbook/assets/image (2) (1).png>)
 5. **Invite Your Shape to a Server**\
    [Learn more about adding bots to a server.](https://www.google.com/search?q=how+to+add+a+discord+bot+to+my+server)
 6. **Return to the Server**\

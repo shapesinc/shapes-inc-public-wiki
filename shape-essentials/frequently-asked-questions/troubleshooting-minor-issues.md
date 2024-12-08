@@ -14,9 +14,9 @@ If you encounter the problem of slash commands not showing up, try the following
 
 
 
-    <figure><img src="../.gitbook/assets/Screenshot 2024-02-15 104752.png" alt=""><figcaption><p>Disable shape</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-02-15 104752.png" alt=""><figcaption><p>Disable shape</p></figcaption></figure>
 
-    <figure><img src="../.gitbook/assets/Screenshot 2024-02-15 104808.png" alt=""><figcaption><p>Enable shape</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-02-15 104808.png" alt=""><figcaption><p>Enable shape</p></figcaption></figure>
 3.  **Check Discord Developer Portal:**
 
     * Go to the Discord Developer Portal.
@@ -24,7 +24,7 @@ If you encounter the problem of slash commands not showing up, try the following
     * Under General Information, scroll down to "INTERACTIONS ENDPOINT URL."
     * Ensure that this field is not set. If it's set, Discord won't forward interaction webhooks, and your shape won't recognize them.
 
-    <figure><img src="../.gitbook/assets/Screenshot 2024-02-15 104518.png" alt=""><figcaption><p>make sure interaction endpoint url is empty</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-02-15 104518.png" alt=""><figcaption><p>make sure interaction endpoint url is empty</p></figcaption></figure>
 
 By following these steps, you should be able to resolve the issue of missing slash commands.
 
@@ -49,7 +49,7 @@ If you've added external slash commands and want your shape to recognize and dis
    * Save the changes.
    *
 
-       <figure><img src="../.gitbook/assets/Screenshot 2024-02-15 105051 (1).png" alt=""><figcaption><p>Disable slash commands</p></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/Screenshot 2024-02-15 105051 (1).png" alt=""><figcaption><p>Disable slash commands</p></figcaption></figure>
 2. **Restart Your External Code Instance:**
    * After disabling shape slash commands, restart your external code instance that handles the custom slash commands.
 

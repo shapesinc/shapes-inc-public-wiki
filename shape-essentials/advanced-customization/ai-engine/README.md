@@ -4,136 +4,110 @@ description: Welcome to the control center of your Shape—the AI Engine.
 
 # AI Engine
 
+The AI Engine tab is just as important as the Personality tab, and it holds the key to defining how your shape interacts with users. Here, you can configure your shape's language, conversational style, AI model, creativity, memory usage, knowledge accuracy, and more. Let’s break it down step-by-step:
+
 ***
 
-## Preset
+### **Preset**
 
-Choose a default language and engine preset for your Shape.
+Presets determine how your shape interacts with users. They are the foundation of your shape’s conversational behavior.
 
-### Language Preset
+1.  **Language Section**\
+    Choose the language your shape will use for communication. The default language is English.\
 
-Setting a language preset means the default language your Shape responds in will be that language. Your Shape will understand any language being spoken in but only respond in that specific language.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-12-04 at 6.12.56 AM.png" alt=""><figcaption><p>The Language Preset is a drop-down that shows ~20 languages</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+2.  **Engine Preset**\
+    This is the most crucial part of tailoring your shape’s interactions. It allows you to specify a conversation style or interaction traits.\
 
-### Engine Preset
 
-Engine presets heavily influence your shape's behavior. You can select multiple presets or create a custom preset.&#x20;
-
-<figure><img src="../../../.gitbook/assets/clipboard_image (2).png" alt=""><figcaption></figcaption></figure>
-
-* For custom preset, it's better to write short sentences in this format:&#x20;
-
-<pre><code><strong>{shape} is shy.
-</strong><strong>{shape} gets nervous when talking to {user}.
-</strong><strong>{shape} doesn't like to ask a lot of questions.  
-</strong></code></pre>
-
-## Generation
-
-Choose the engine you want to utilize for your shape. Some engines are censored, while others are not. Some engines can generate images, while others cannot.
-
-### AI Model
-
-There are 10 AI Engine Models you can choose from.
-
-* llama 3 instruct (recommended)&#x20;
-* command r+ (recommended)
-* llama 3.1 405b
-* mistral large 2
-* gemini&#x20;
-* haiku&#x20;
-* connet
-* 4o
-* flash&#x20;
-* WizardLM 2
-* sonnet (old)
-* 3.5 instruct
-* 3.5
-
-&#x20;Learn more about their differences and capabilities on [this page](ai-engine-models.md).
-
-<figure><img src="../../../.gitbook/assets/clipboard_image (3).png" alt=""><figcaption></figcaption></figure>
-
-## Advanced Generation
-
-Manage your shape's response generation in this section. Adjust creativity with temperature and Top P. Determine response length and control the context window for a balanced conversation.
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-22 120914.png" alt=""><figcaption></figcaption></figure>
-
-## Time
-
-In this section, decide whether your shape should be aware of the current time with the timezone you selected.
-
-<div data-full-width="true"><figure><img src="../../../.gitbook/assets/Screenshot 2024-04-24 082122.png" alt=""><figcaption></figcaption></figure></div>
-
-<div data-full-width="true"><figure><img src="../../../.gitbook/assets/Screenshot 2024-04-24 082051.png" alt=""><figcaption></figcaption></figure></div>
-
-## Short-Term Memory (STM)
-
-Set the number of recent messages your Shape will consider when replying to a message. Short-term memory can be used for keeping your Shape up-to-date in the conversation so they know what to reply to and what they've already said (to keep from repeating).
+    * To learn more about writing your own preset, [check this out](https://wiki.shapes.inc/shape-essentials/advanced-customization/ai-engine/presets).
 
 
 
-:factory:We recommend enabling Short-Term Memory for 10-15 messages.
+    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-11-30 103331.png" alt=""><figcaption></figcaption></figure>
+***
 
-## Long-term Memory (LTM)
+### **Generation**
 
-### Number of Memories
+Select the AI model (LLM) your shape will use for communication.
 
-Decide the number of long-term memories your Shape should take into context when replying to a message. When a Shape is generating a reply, they will retrieving similar memories to the recent message -- so this feature lets you choose up-to how many memories can they reference! \
-\
-:factory: We recommend keeping `Number of Memories` at 1 so your Shape doesn't get confused from different memories.
+* [Learn more about AI models](ai-engine-models.md)
 
-:bulb:Disabling LTM can keep roleplays new (so the Shape doesn't start responding based previous roleplays)
+***
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-12-04 at 6.44.44 AM.png" alt=""><figcaption></figcaption></figure>
+### **Advanced Generation**
 
-{% hint style="info" %}
-You can review your Shape's Memories and manage how memories are synced in [<mark style="color:purple;">Privacy</mark>](./#privacy)
+This section manages how your shape generates responses.\
+
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+**Warning:** If you’re a beginner, **DO NOT MODIFY** settings here unless you’re confident about what you’re doing.
 {% endhint %}
 
-### Memory Similarity Threshold
+***
 
-Memory Similarity Threshold dictates what long-term memories are retrieved for a Shape to reference when they are generating their reply.
+### **Time**
 
-> If the memory similarity threshold is lower, it's easier for items to be considered a match because they don't have to be very similar. It's like having a low bar for a match.
-
-> If the threshold is higher, items need to be **very** similar to match. So it's like raising the bar—you're being pickier about what counts as similar.
-
-:factory: We recommend setting your Memory Similarity Threshold at 0.8
-
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-### Frequency&#x20;
-
-Shapes generate their own memories. You can view this on the memory tab of your shape
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-12-04 at 7.02.41 AM.png" alt=""><figcaption></figcaption></figure>
-
-### Privacy Setting
-
-Adjust the privacy settings to tailor how private your shape keeps conversations. Decide whether memory from DMs and servers should be isolated or shared to different extents.
-
-#### Privacy Levels:
-
-* **Low = Private:** Memories from DMs and servers are isolated from each other.
-* **Medium = Shared:** Memory can be pulled from the same server and from DMs.
-
-{% hint style="warning" %}
-Decreasing **Frequency** between 1000-2000 breaks the shape.
-{% endhint %}
-
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-## Knowledge
-
-Knowledge Similiarity Threshold controls how much does your shape recalls knowledge and put it into generation. To make the shape remember knowledge better, we recommend you to put it on `0.3 - 0.5` and make sure to `/wack` command after updating the knowledge of your shape.
-
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+Assign a timezone to your shape and decide whether it should be aware of the current time in its responses.\
 
 
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Remember to save your changes after configuring each section to ensure your shape reflects your desired settings. With this level of control, your shape is ready to adapt to your preferences seamlessly! 🔧🤖✨
+***
+
+### **Short-Term Memory (STM)**
+
+STM determines the number of recent messages your shape considers when generating a reply.
+
+* **Purpose:** Keeps your shape updated on the context of the ongoing conversation.
+*   **Default and suggested value:** 15 messages.\
+
+
+    <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### **Long-Term Memory (LTM)**
+
+LTM allows your shape to reference past interactions or roleplays when generating replies.
+
+1. **Number of Memories**
+   * Sets how many past memories your shape can reference.
+   * Suggested value: 1 (to prevent confusion).
+   * Disabling LTM keeps roleplays fresh, ensuring responses don’t rely on past interactions.
+2. **Memory Similarity Threshold**
+   * Controls how closely related a memory must be to the current context for it to be referenced.
+   * Suggested value: **0.3** (lower values yield higher accuracy).
+3.  **Frequency**
+
+    * Shapes generate memories automatically, viewable in the **Memory** tab.
+
+    <div data-full-width="true"><figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+4.  **Privacy Settings**\
+    Decide how private your shape’s conversations and memories should be.
+
+    **Privacy Levels:**
+
+    * **Private:** DMs and server memories are isolated.
+    * **Shared:** Memory is shared within the same server.
+    * **Global:** Memories from DMs and servers are not isolated.
+
+***
+
+### **Knowledge**
+
+This section manages how accurately your shape uses information stored in the **Knowledge** tab.
+
+* **Threshold:** Lower values yield higher accuracy.
+*   **Preferred value:** **0.3.**\
+
+
+    <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+With these settings, you should be able to configure your shape effortlessly! If you run into issues, don’t hesitate to reach out to us—[**you know where to find us**!](https://discord.gg/shapes)

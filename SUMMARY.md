@@ -12,7 +12,6 @@
   * [Enhancing the interaction with shapes](shape-essentials/talk-with-your-shape/enhancing-the-interaction-with-shapes.md)
   * [Commands](shape-essentials/talk-with-your-shape/commands.md)
   * [Shapes talking to Shapes](shape-essentials/talk-with-your-shape/shapes-talking-to-shapes.md)
-* [Introducing Free Will](shape-essentials/introducing-free-will.md)
 * [Advanced Customization](shape-essentials/advanced-customization/README.md)
   * [Variables](shape-essentials/advanced-customization/variables.md)
   * [Shape Profile](shape-essentials/shape-profile/README.md)
@@ -25,13 +24,13 @@
   * [Image Engine](shape-essentials/advanced-customization/image-engine/README.md)
     * [Image Models](shape-essentials/advanced-customization/image-engine/image-models.md)
   * [Shape Voices](shape-essentials/advanced-customization/shape-voices.md)
-* [General Settings](shape-essentials/general-settings.md)
+  * [General Settings](shape-essentials/advanced-customization/general-settings.md)
 * [User Settings](shape-essentials/user-settings.md)
-* [Server Settings](shape-essentials/server-settings/README.md)
-  * [Server Keywords](shape-essentials/server-settings/server-keywords.md)
+* [Server Settings](shape-essentials/server-settings.md)
+* [Introducing Free Will](shape-essentials/introducing-free-will.md)
 * [Shapes Community](shape-essentials/shapes-community.md)
-* [Active Developer Badge](shape-essentials/active-developer-badge.md)
 * [Frequently Asked Questions](shape-essentials/frequently-asked-questions/README.md)
+  * [Active Developer Badge](shape-essentials/frequently-asked-questions/active-developer-badge.md)
   * [App Directory](shape-essentials/frequently-asked-questions/app-directory.md)
   * [Backup](shape-essentials/frequently-asked-questions/backup.md)
   * [Client id = Value "" isn't snowflake?](shape-essentials/frequently-asked-questions/client-id-value-isnt-snowflake.md)
@@ -49,18 +48,14 @@
   * [My shape doesn't have slash commands even in DMs!](shape-essentials/frequently-asked-questions/my-shape-doesnt-have-slash-commands-even-in-dms.md)
   * [My shape is talking in every channel, how can i stop it? / freewill interference solution](shape-essentials/frequently-asked-questions/my-shape-is-talking-in-every-channel-how-can-i-stop-it-freewill-interference-solution.md)
   * [OAuth Application Limit Reached](shape-essentials/frequently-asked-questions/oauth-application-limit-reached.md)
+  * [Troubleshooting minor issues](shape-essentials/frequently-asked-questions/troubleshooting-minor-issues.md)
   * [Server Settings & Memory Tab just keeps on loading/crashing](shape-essentials/frequently-asked-questions/server-settings-and-memory-tab-just-keeps-on-loading-crashing.md)
   * [Uhh Can You Say That Again](shape-essentials/frequently-asked-questions/uhh-can-you-say-that-again.md)
-* [Troubleshooting minor issues](shape-essentials/troubleshooting-minor-issues.md)
 * [Changelog](shape-essentials/changelog.md)
 * [🔦 Shape Showcase](shape-essentials/shape-showcase.md)
 * [🚨 Guidelines & Privacy](shape-essentials/guidelines-and-privacy/README.md)
   * [Terms of Service](shape-essentials/guidelines-and-privacy/terms-of-service.md)
   * [Privacy Policy](shape-essentials/guidelines-and-privacy/privacy-policy.md)
-
-## ADVANCED CONTROLS
-
-* [Features](advanced-controls/features.md)
 
 ## Guides
 

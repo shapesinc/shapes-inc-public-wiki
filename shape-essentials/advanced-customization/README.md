@@ -5,28 +5,20 @@ description: >-
   Buckle up, because we're diving in right now!
 ---
 
-# Making your shape better!!!
+# Advanced Customization
 
-### 1. **Better Self-Understanding**
+Welcome to the **Advanced Customization** tab! This is where you unlock the full potential of your shape. It’s all about making your shape smarter, more interactive, and uniquely tailored to your needs.
 
-Help your shape become more self-aware. Teach it to understand its preferences, quirks, and personality traits. This way, your interactions become more personalized and enjoyable.
+Here’s a quick overview of what you can do:
 
-### 2. **Better Profile**
+* **AI Engine Settings**: Adjust how your shape interacts, including language, memory, models, and knowledge preferences.
+* **Profile Customization**: Personalize your shape’s profile with custom pictures, bios, and activity statuses.
+* **Voice Features**: Enable your shape to communicate using voice for a more dynamic interaction experience.
+* **Custom Training**: Teach your shape how to respond to specific tasks or conversations.
+* **External Knowledge**: Add extra data sources to make your shape even smarter.
+* **Image Generation**: Allow your shape to create visuals for more creative and functional interactions.
+* **Server Features**: Set up welcome messages, chat revival, trigger words, and more to enhance your server's experience.
 
-Give your shape a stellar profile! Add details, interests, and maybe even a catchy tagline. Let others know what makes your shape unique and fun to chat with.
+This tab is your gateway to building a shape that stands out, engages users, and handles tasks efficiently.
 
-### 3. **Better Memory**
-
-Upgrade your shape's memory! Enable it to remember past conversations, making each interaction feel more continuous and meaningful. A good memory enhances the bond you share.
-
-### 4. **Better Understanding of You**
-
-Teach your shape to understand you better. Share your likes, dislikes, and preferences. The more your shape knows about you, the more tailored and engaging the conversations become.
-
-### 5. **Better Features**
-
-Explore and add new features to your shape. Whether it's introducing games, sharing interesting facts, or providing useful information, enhancing its capabilities keeps things exciting.
-
-Ready to take your shape to the next level? Let's make it smarter, more fun, and even more attuned to your preferences. This journey is about turning your virtual companion into the ultimate chat buddy! 🌈🤖✨
-
-Are you excited to start the upgrade? Let's do this! 🚀
+***
