@@ -6,8 +6,8 @@ description: How to create a Shape that cannot speak but rather only do *actions
 
 {% embed url="https://www.youtube.com/embed/CRstVvoiS_Q?si=RfLE_HxtfQhl4yDL" %}
 
-{% content-ref url="../shape-essentials/your-first-shape/getting-a-discord-bot-token.md" %}
-[getting-a-discord-bot-token.md](../shape-essentials/your-first-shape/getting-a-discord-bot-token.md)
+{% content-ref url="../your-first-shape/getting-a-discord-bot-token.md" %}
+[getting-a-discord-bot-token.md](../your-first-shape/getting-a-discord-bot-token.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

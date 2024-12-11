@@ -21,8 +21,7 @@
   * [AI Engine](shape-essentials/advanced-customization/ai-engine/README.md)
     * [Presets](shape-essentials/advanced-customization/ai-engine/presets.md)
     * [AI Engine Models](shape-essentials/advanced-customization/ai-engine/ai-engine-models.md)
-  * [Image Engine](shape-essentials/advanced-customization/image-engine/README.md)
-    * [Image Models](shape-essentials/advanced-customization/image-engine/image-models.md)
+  * [Image Engine](shape-essentials/advanced-customization/image-engine.md)
   * [Shape Voices](shape-essentials/advanced-customization/shape-voices.md)
   * [General Settings](shape-essentials/advanced-customization/general-settings.md)
 * [User Settings](shape-essentials/user-settings.md)
@@ -51,26 +50,23 @@
   * [Troubleshooting minor issues](shape-essentials/frequently-asked-questions/troubleshooting-minor-issues.md)
   * [Server Settings & Memory Tab just keeps on loading/crashing](shape-essentials/frequently-asked-questions/server-settings-and-memory-tab-just-keeps-on-loading-crashing.md)
   * [Uhh Can You Say That Again](shape-essentials/frequently-asked-questions/uhh-can-you-say-that-again.md)
-* [Changelog](shape-essentials/changelog.md)
+* [🏫 Shape School](shape-essentials/shape-school/README.md)
+  * [Speechless Shape](shape-essentials/shape-school/speechless-shape.md)
+  * [Non-English Shape](shape-essentials/shape-school/non-english-shape.md)
+  * [Multiple Character Shape](shape-essentials/shape-school/multiple-character-shape.md)
+  * [Server Utility Shape](shape-essentials/shape-school/server-utility-shape.md)
+  * [Emoji Shape](shape-essentials/shape-school/emoji-shape.md)
+  * [! If-Then Shape Command/Directive](shape-essentials/shape-school/if-then-shape-command-directive.md)
 * [🔦 Shape Showcase](shape-essentials/shape-showcase.md)
 * [🚨 Guidelines & Privacy](shape-essentials/guidelines-and-privacy/README.md)
   * [Terms of Service](shape-essentials/guidelines-and-privacy/terms-of-service.md)
   * [Privacy Policy](shape-essentials/guidelines-and-privacy/privacy-policy.md)
+* [Changelog](shape-essentials/changelog.md)
 
 ## Guides
 
 * [How to Make Your Server Active](guides/how-to-make-your-server-active.md)
 * [How to Make a High Quality Shape](guides/how-to-make-a-high-quality-shape.md)
-
-***
-
-* [🏫 Shape School](shape-school/README.md)
-  * [Speechless Shape](shape-school/speechless-shape.md)
-  * [Non-English Shape](shape-school/non-english-shape.md)
-  * [Multiple Character Shape](shape-school/multiple-character-shape.md)
-  * [Server Utility Shape](shape-school/server-utility-shape.md)
-  * [Emoji Shape](shape-school/emoji-shape.md)
-  * [! If-Then Shape Command/Directive](shape-school/if-then-shape-command-directive.md)
 
 ## Links
 

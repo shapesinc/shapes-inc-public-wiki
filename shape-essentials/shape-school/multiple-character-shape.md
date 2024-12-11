@@ -8,8 +8,8 @@ description: How to create a shape with multiples!
 
 {% embed url="https://youtu.be/wgsyLGS7anA?si=DTMvrTIdyOVIdoey" %}
 
-{% content-ref url="../shape-essentials/your-first-shape/getting-a-discord-bot-token.md" %}
-[getting-a-discord-bot-token.md](../shape-essentials/your-first-shape/getting-a-discord-bot-token.md)
+{% content-ref url="../your-first-shape/getting-a-discord-bot-token.md" %}
+[getting-a-discord-bot-token.md](../your-first-shape/getting-a-discord-bot-token.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

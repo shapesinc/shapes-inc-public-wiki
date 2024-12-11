@@ -8,8 +8,8 @@ description: How to create a Shape that has !commands or does special things whe
 
 {% embed url="https://youtu.be/Ocar65ltyOQ?si=6TZWJjqPYcvMdVwk" %}
 
-{% content-ref url="../shape-essentials/your-first-shape/getting-a-discord-bot-token.md" %}
-[getting-a-discord-bot-token.md](../shape-essentials/your-first-shape/getting-a-discord-bot-token.md)
+{% content-ref url="../your-first-shape/getting-a-discord-bot-token.md" %}
+[getting-a-discord-bot-token.md](../your-first-shape/getting-a-discord-bot-token.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

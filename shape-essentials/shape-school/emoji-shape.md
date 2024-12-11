@@ -8,8 +8,8 @@ description: How to make your Shape send different styles of emoji!
 
 {% embed url="https://youtu.be/JayJPJE23Go?si=gl0kECutDbefhuCP" %}
 
-{% content-ref url="../shape-essentials/your-first-shape/getting-a-discord-bot-token.md" %}
-[getting-a-discord-bot-token.md](../shape-essentials/your-first-shape/getting-a-discord-bot-token.md)
+{% content-ref url="../your-first-shape/getting-a-discord-bot-token.md" %}
+[getting-a-discord-bot-token.md](../your-first-shape/getting-a-discord-bot-token.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -22,7 +22,7 @@ Please press the tabs below to reveal the text you need and then press the copy 
 
 Initial message (Profile Page)
 
-<img src="../.gitbook/assets/Screenshot_20240901-204237.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_20240901-204237.png" alt="" data-size="original">
 
 
 
@@ -42,7 +42,7 @@ Engine Preset (Ai Engine Page)
 
 Initial Message (Profile Page)
 
-<img src="../.gitbook/assets/Screenshot_20240901-204304.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_20240901-204304.png" alt="" data-size="original">
 
 
 
@@ -62,11 +62,11 @@ AI engine preset (AI Engine page)
 
 \+ **Initial Message Example (Profile Page)**
 
-<img src="../.gitbook/assets/Screenshot_20240901-204346.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_20240901-204346.png" alt="" data-size="original">
 
 You can find your emoji IDs by sending them in chat and then copying the text.
 
-&#x20;![](<../.gitbook/assets/Screenshot_20240901-205439 (1).png>)
+&#x20;![](<../../.gitbook/assets/Screenshot_20240901-205439 (1).png>)
 
 
 
@@ -114,11 +114,11 @@ If no emoji is found fit to be used, {shape} will use no emoji.
 
 \+ **Initial Message Example (Profile Page)**
 
-![](<../.gitbook/assets/image (120).png>)
+![](<../../.gitbook/assets/image (120).png>)
 
 You can find the emoji IDs by going to Discord's Developer Portal, click on your shape, Emojis, and click on Copy Markdown. Make sure to add emojis there if you haven't yet.
 
-![](<../.gitbook/assets/image (121).png>)
+![](<../../.gitbook/assets/image (121).png>)
 
 Example of emoji ID: `<:emoji:1287017003852234763>`
 
