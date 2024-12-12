@@ -39,7 +39,15 @@ Disable users from talking with your shape via direct messages.
 
 Someone bullying your shape? Ignore list is your friend, Put the discord usernames of the people you want your shape to ignore. Putting their names in ignore list will make the shape not respond to them.
 
+
+
 <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+### Custom Shape Messages Wack/Sleep/Error
+
+Here you can customize what your shape says when you wack it, it sends an error or saves a long-term memory with sleep!
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-12-12 175841.png" alt=""><figcaption></figcaption></figure>
 
 ## Danger Zone
 
