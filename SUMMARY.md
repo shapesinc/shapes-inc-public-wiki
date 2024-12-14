@@ -57,6 +57,7 @@
   * [Server Utility Shape](shape-essentials/shape-school/server-utility-shape.md)
   * [Emoji Shape](shape-essentials/shape-school/emoji-shape.md)
   * [! If-Then Shape Command/Directive](shape-essentials/shape-school/if-then-shape-command-directive.md)
+  * [Advanced Emotion Control](shape-essentials/shape-school/advanced-emotion-control.md)
 * [🔦 Shape Showcase](shape-essentials/shape-showcase.md)
 * [🚨 Guidelines & Privacy](shape-essentials/guidelines-and-privacy/README.md)
   * [Terms of Service](shape-essentials/guidelines-and-privacy/terms-of-service.md)
