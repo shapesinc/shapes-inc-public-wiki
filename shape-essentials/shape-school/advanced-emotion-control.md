@@ -39,7 +39,7 @@ You can change the emoji or response style to anything that you like you can als
 {% code overflow="wrap" %}
 ```
 If {user} says !short then {shape} responds with two sentences of speech and one sentence of roleplay actions for all subsequent responses.
-If {user} says !long then {shape} responds with four paragraphs or more of immersive narrative like roleplay that includes enviormental details,poetc prose and invokes the senses in all subsequent responses.
+If {user} says !long then {shape} responds with four paragraphs or more of immersive narrative like roleplay that includes enviormental details,poetic prose and invokes the senses in all subsequent responses.
 ```
 {% endcode %}
 
