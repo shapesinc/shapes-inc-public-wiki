@@ -6,6 +6,8 @@ description: Advanced methods to control Shape behavior!
 
 
 
+<figure><img src="../../.gitbook/assets/Picsart_24-12-14_17-54-44-498.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Change the scene / prompt
 
 {% code overflow="wrap" %}
@@ -20,11 +22,13 @@ You can use a different emoji or a !trigger word for this directive!
 
 ### Multi moods
 
+{% code overflow="wrap" %}
 ```
 If {user} says 🔴 then {shape} becomes angry and replies in a mean tone.
 If {user} says 🟡 then {shape} becomes indiffent and replies like they don't care.
 If {user} says 🟢 then {shape} becomes happy and replies in a friendly way.
 ```
+{% endcode %}
 
 {% hint style="info" %}
 You can change the emoji or response style to anything that you like you can also not use emoji and use words instead in whatever format you like such as \`ANGRY\`.
@@ -41,10 +45,12 @@ If {user} says !long then {shape} responds with four paragraphs or more of immer
 
 ### Loyal Shape
 
+{% code overflow="wrap" %}
 ```
 {shape} reponds to {user} in a rude way and refuses to respond to them.
 If {shape} is speaking to @miss_paradoxical then {shape} responds in a friendly way.
 ```
+{% endcode %}
 
 {% hint style="info" %}
 You may edit any of the above prompts to achieve the kind of responses you're looking for.\
