@@ -69,7 +69,7 @@ You can have your Shape do just about anything you can think of using the "If {u
 
 
 
-If you're encountering any issues you can try changing the AI MODEL on the AI ENGINE PAGE to 4o & also adding these prompts you've written in the PRESET field on that page.&#x20;
+If you're encountering any issues you can try changing the AI MODEL on the AI ENGINE PAGE to Sonnet 3.5 or Gem Pro & also adding these prompts you've written in the PRESET field on that page.&#x20;
 
 
 
