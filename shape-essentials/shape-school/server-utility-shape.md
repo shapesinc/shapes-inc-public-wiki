@@ -69,6 +69,6 @@ To Copy User ID's to have a shape ping them select the 3 dot menu on the users d
 </details>
 
 {% hint style="info" %}
-On the AI engine page please select 4o as your model and lower the creativity of your shape down to 0.5!
+On the AI engine page please select Sonnet 3.5 or Gem Pro  as your model and lower the creativity of your shape down to 0.5!
 {% endhint %}
 
