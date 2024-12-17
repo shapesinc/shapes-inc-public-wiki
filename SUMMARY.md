@@ -27,6 +27,7 @@
 * [User Settings](shape-essentials/user-settings.md)
 * [Server Settings](shape-essentials/server-settings.md)
 * [Introducing Free Will](shape-essentials/introducing-free-will.md)
+* [Features](shape-essentials/features.md)
 * [Shapes Community](shape-essentials/shapes-community.md)
 * [Frequently Asked Questions](shape-essentials/frequently-asked-questions/README.md)
   * [Active Developer Badge](shape-essentials/frequently-asked-questions/active-developer-badge.md)
@@ -62,6 +63,7 @@
 * [🚨 Guidelines & Privacy](shape-essentials/guidelines-and-privacy/README.md)
   * [Terms of Service](shape-essentials/guidelines-and-privacy/terms-of-service.md)
   * [Privacy Policy](shape-essentials/guidelines-and-privacy/privacy-policy.md)
+* [TL;DR](shape-essentials/tl-dr.md)
 * [Changelog](shape-essentials/changelog.md)
 
 ## Guides
