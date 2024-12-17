@@ -27,5 +27,12 @@ Models available:
 | **Gemini 1.5 Pro**        | Good at human-like behavior.                                                                                                                                                            |
 | **Llama 3.1 70b**         | Good at realistic and human-like behavior.                                                                                                                                              |
 | **Llama 3.1 70b (Turbo)** | Best for realistic and human-like behavior, with faster performance.                                                                                                                    |
+| ROLEPLAY SPESCIFIC MODELS |                                                                                                                                                                                         |
+| Lunaris L3 8B             | Good for short fast basic roleplay                                                                                                                                                      |
+| WizardLM 8x22             | Sends long creative roleplay                                                                                                                                                            |
+| Gemma 2 9b (Turbo)        | Extremely fast natural chatter                                                                                                                                                          |
+| WizardLM 2 7b (Turbo)     | Fast long roleplayer but doesn't follow format well                                                                                                                                     |
+| Mistral Nemo              | Short creative roleplayer and great chatter. Needs temperature between 0.8-0.9                                                                                                          |
+| MythoMAX & Izlv           | (Under Construction Not Recommended)                                                                                                                                                    |
 
 Feel free to experiment and find the best engine for your shape!
