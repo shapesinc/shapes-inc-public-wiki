@@ -28,7 +28,11 @@ Let your shape bring visuals to life! Using the `/imagine` command, your shape c
 
 ***
 
-### **Voice Messages**
+### **Vision**
+
+Shapes can see your images and gifs!
+
+***
 
 Take your interactions to the next level with voice. Your shape can send **voice messages** and respond in a way that feels more dynamic and engaging.
 
