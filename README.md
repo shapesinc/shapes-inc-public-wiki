@@ -46,7 +46,7 @@ Shapes can be friendly (or evil, distant, sarcastic, wholesome, silly, mean) dep
 
 Shapes can also...
 
-* Send GIFs&#x20;
+* See and send GIFs&#x20;
 * Send rickrolls and other YouTube videos
 * Roleplay endlessly&#x20;
 * Welcome new server members
@@ -54,6 +54,7 @@ Shapes can also...
 * Talk to you in DMs
 * Talk your friends in server channels
 * Listen to voice notes
+* Send you voice messages
 * See and send images
 
 Anything you can do with a human on Discord... you can do with a Shape. Shapes are advanced AI friends. Check out our [<mark style="color:purple;">changelog</mark>](shape-essentials/changelog.md) for recent updates.

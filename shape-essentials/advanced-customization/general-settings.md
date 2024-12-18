@@ -51,6 +51,6 @@ Here you can customize what your shape says when you wack it, it sends an error 
 
 ## Danger Zone
 
-On this section, you can disable and enable your shape and delete your shape & reset bot token.
+On this section, you can <mark style="color:red;">delete</mark> your shape & reset bot token.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>

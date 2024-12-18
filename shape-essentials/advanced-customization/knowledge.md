@@ -26,7 +26,7 @@ _**For example:** If you add_ [_https://domain.link_](https://domain.link/home)[
 
 This is your canvas for unlimited general information about your shape. From its origin story to its quirks, share everything that {user} (the person wanting to talk to your shape) might find interesting.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 104936.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Putting too much information in the same knowledge section might cause your shape to mix it up and recall it incorrectly.
