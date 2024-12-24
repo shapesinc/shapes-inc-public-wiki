@@ -1,3 +1,9 @@
+---
+description: >-
+  you can now search shapes by creator, popularity, most recommended, and view
+  all shapes
+---
+
 # Search for Shapes
 
 use `/search` on any shape
@@ -41,4 +47,10 @@ Want to try a famous shape? `Popular` shows the top 30 shapes out of 300k+ shape
 
 1. This leaderboard resets every 24 hours so watch out for shapes rising up in the ranks.&#x20;
 2. We rank shapes by the number of messages.
+
+## Search All Shapes
+
+Search through our catalogue of almost 400,000 shapes live on Discord by selecting `All`
+
+<figure><img src="../.gitbook/assets/image (137).png" alt="" width="375"><figcaption></figcaption></figure>
 
