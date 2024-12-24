@@ -8,6 +8,8 @@ description: >-
 
 use `/search` on any shape
 
+{% embed url="https://youtu.be/QTv4VvjWfsU" %}
+
 ## Search Shapes By Creator
 
 note: make sure you are on the `For You` category
