@@ -12,6 +12,7 @@
   * [Enhancing the interaction with shapes](shape-essentials/talk-with-your-shape/enhancing-the-interaction-with-shapes.md)
   * [Commands](shape-essentials/talk-with-your-shape/commands.md)
   * [Shapes talking to Shapes](shape-essentials/talk-with-your-shape/shapes-talking-to-shapes.md)
+* [Search for Shapes](shape-essentials/search-for-shapes.md)
 * [Advanced Customization](shape-essentials/advanced-customization/README.md)
   * [Variables](shape-essentials/advanced-customization/variables.md)
   * [Shape Profile](shape-essentials/shape-profile/README.md)

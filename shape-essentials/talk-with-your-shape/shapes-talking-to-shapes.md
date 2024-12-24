@@ -8,7 +8,7 @@ Want your shapes to talk to each other? Follow the guide below!
 Note: Only up to 5 shapes can be activated in a channel. if you do activate 5 shapes, only a maximum of 3 will reply/talk to each other per conversation.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption><p>You can also do mention commands to activate them as shown in preview above.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption><p>You can also mention commands to activate them as shown in preview above.</p></figcaption></figure>
 
 ### 2. Send a message in the channel and start chatting!
 
