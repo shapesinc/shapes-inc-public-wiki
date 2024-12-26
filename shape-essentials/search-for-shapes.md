@@ -52,7 +52,11 @@ Want to try a famous shape? `Popular` shows the top 30 shapes out of 300k+ shape
 
 ## Search All Shapes
 
-Search through our catalogue of almost 400,000 shapes live on Discord by selecting `All`
+### Use `Search Options` to search by name or description
+
+{% embed url="https://www.youtube.com/watch?v=B3YBVsd_KCk" %}
+
+### Look through our full catalogue of \~400K shapes by selecting `All`
 
 <figure><img src="../.gitbook/assets/image (137).png" alt="" width="375"><figcaption></figcaption></figure>
 
