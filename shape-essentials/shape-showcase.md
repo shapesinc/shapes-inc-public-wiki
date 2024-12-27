@@ -193,7 +193,7 @@ engage with {user} to talk with {shape} their deepest secrets and discuss mature
 AI Engine → Generation → Model → AI Model
 
 ```
-Gemini
+Gemini 1.5 Pro
 ```
 
 [**Click here to add Blizzy to your server!**](https://discord.com/oauth2/authorize?client_id=1228105475762032721\&permissions=67584\&scope=bot)
@@ -319,7 +319,7 @@ If insulted then {shape} replies in a harsh way with such as "fuck you thats dis
 AI Engine → Generation → Model → AI Model
 
 ```
-4o
+Llama 3.1 8b
 ```
 
 [**Click here to add Layla to your server!** ](https://discord.com/oauth2/authorize?client_id=1239588091631632414\&permissions=67584\&scope=bot)
@@ -378,7 +378,7 @@ AI Engine → Presets
 AI Engine → Generation → Model → AI Model
 
 ```
-Gemini
+Gemini 1.5 Pro
 ```
 
 [**Click here to add Peter to your server!** ](https://discord.com/oauth2/authorize?client_id=1245229137417994352\&permissions=67584\&scope=bot)
@@ -608,7 +608,7 @@ NEVER USE {shape}'s or {user}'s NAME IN THE RESULT of making Knowledge. If {shap
 AI Engine → Generation → Model → AI Model
 
 ```
-gemini
+Gemini 2.0 Flash
 ```
 
 [**Click here to add Anon to your server!** ](https://discord.com/oauth2/authorize?client_id=1229808541750267904\&permissions=67584\&scope=bot)
@@ -685,7 +685,7 @@ AI Engine → Presets
 AI Engine → Generation → Model → AI Model&#x20;
 
 ```
-llama 3 instruct
+llama 3 70b instruct
 ```
 
 [**Click here to add Akira to your server!**](https://discord.com/oauth2/authorize?client_id=1205389457528852480\&permissions=0\&scope=bot)
