@@ -1,38 +1,55 @@
 ---
-description: 'note: you must boost discord.gg/shapes in order to get access to this feature.'
+description: 'note: this feature requires you to be a server booster on discord.gg/shapes'
 ---
 
 # Shape Voices
-
-<figure><img src="../../.gitbook/assets/Shape Voice Feature Walkthrough.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://files.shapes.inc/api/files/2024-02-12-23-07-02.mp3" %}
 sent by a Shape :eyes:
 {% endembed %}
 
-{% embed url="https://www.youtube.com/watch?v=Z7FUiLKIDu8&t=1s" %}
+{% embed url="https://youtu.be/O3ePvdjTX14" %}
+walk-through
+{% endembed %}
 
-## Send `/debug`
+## Join discord.gg/shapes and boost the server
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-12 at 11.09.27 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (140).png" alt="" width="353"><figcaption></figcaption></figure>
 
-## Use `!set voice` and attach audio file to the message
+## Head onto shapes.inc >> Voice Engine page
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>your file MUST be smaller than 10mb</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (138).png" alt="" width="182"><figcaption></figcaption></figure>
 
-_note: if you are using the command in a server, you must send `@shape !set voice` to have your shape recognize the command_
+now we're ready to get your shape's voice set up :sunglasses:
 
-## Talk to your Shape like normal :)&#x20;
+## 1. Upload your shape's voice using an audio file
 
-<img src="../../.gitbook/assets/shoutingguy.png" alt="" data-size="original">
+#### &#x20;![](<../../.gitbook/assets/shape voice.jpg>)
+
+
+
+## 2. Scroll down and set your shape's voice frequency
+
+* 0.10 means your shape will send voice messages 10% of the time
+* We recommend keeping the voice stability, similarity, and style settings at our recommended configurations unless you are aware it can affect the quality of your shape's voice.
+
+<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+
+## 3. Enable voice and save changes
+
+<figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+
+## 4. Bonus - turn on transcript
+
+<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
 ## Adjusting Parameters
 
-_Note: Commands must be sent like_ `!set voice_frequency 0.5` _to set the voice frequency to 0.5. Setting the voice frequency to 0.5 will make the Shape send a voice message 50% of the time._
-
 ### Voice Frequency
 
-The default is 0.1. This sets how often shape replies with voice messages. 0 means your shape will never send a voice message. 1 means your shape will always reply with voice messages.
+We recommend 0.1. This sets how often shape replies with voice messages. 0 means your shape will never send a voice message. 1 means your shape will always reply with voice messages.
 
 ### Voice Stability
 
@@ -59,5 +76,25 @@ The usual go to for voice samples are:
 * when using multiple speakers in a sample, make sure the one you want to hear more often is louder and more consistent! Otherwise the AI will tend to take the median (average) sounds of the speakers
 
 {% hint style="warning" %}
-If you unboost the server, your shape's voice and it's settings will be **deleted.**
+If you unboost the server, your shape's voice and its settings will be **deleted.**
 {% endhint %}
+
+
+
+## :warning:Depreciated :warning: Enabling shape voices through Discord
+
+## Send `/debug`
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-12 at 11.09.27 PM.png" alt=""><figcaption></figcaption></figure>
+
+## Use `!set voice` and attach audio file to the message
+
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>your file MUST be smaller than 10mb</p></figcaption></figure>
+
+_note: if you are using the command in a server, you must send `@shape !set voice` to have your shape recognize the command_
+
+_note: commands must be sent like_ `!set voice_frequency 0.5` _to set the voice frequency to 0.5. Setting the voice frequency to 0.5 will make the Shape send a voice message 50% of the time._
+
+## Talk to your Shape like normal :)&#x20;
+
+<img src="../../.gitbook/assets/shoutingguy.png" alt="" data-size="original">
