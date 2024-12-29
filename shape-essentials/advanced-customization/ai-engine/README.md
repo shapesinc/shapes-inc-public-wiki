@@ -16,7 +16,7 @@ Presets determine how your shape interacts with users. They are the foundation o
     Choose the language your shape will use for communication. The default language is English.\
 
 
-    <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 2.  **Engine Preset**\
     This is the most crucial part of tailoring your shape’s interactions. It allows you to specify a conversation style or interaction traits.\
 
@@ -25,7 +25,7 @@ Presets determine how your shape interacts with users. They are the foundation o
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -42,7 +42,7 @@ Select the AI model (LLM) your shape will use for communication.
 This section manages how your shape generates responses.\
 
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Warning:** If you’re a beginner, **DO NOT MODIFY** settings here unless you’re confident about what you’re doing.
@@ -55,7 +55,7 @@ This section manages how your shape generates responses.\
 Assign a timezone to your shape and decide whether it should be aware of the current time in its responses.\
 
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -67,7 +67,7 @@ STM determines the number of recent messages your shape considers when generatin
 *   **Default and suggested value:** 15 messages.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -86,7 +86,7 @@ LTM allows your shape to reference past interactions or roleplays when generatin
 
     * Shapes generate memories automatically, viewable in the **Memory** tab.
 
-    <div data-full-width="true"><figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+    <div data-full-width="true"><figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure></div>
 4.  **Privacy Settings**\
     Decide how private your shape’s conversations and memories should be.
 
@@ -106,7 +106,7 @@ This section manages how accurately your shape uses information stored in the **
 *   **Preferred value:** **0.3.**\
 
 
-    <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

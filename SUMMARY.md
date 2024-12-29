@@ -4,10 +4,10 @@
 
 * [⭐ Welcome to Shapes, Inc Manual](README.md)
 * [Your First Shape](shape-essentials/your-first-shape/README.md)
+  * [I'm on mobile.](shape-essentials/your-first-shape/im-on-mobile..md)
   * [Getting a Discord Bot Token](shape-essentials/your-first-shape/getting-a-discord-bot-token.md)
   * [+ Add App Button](shape-essentials/your-first-shape/+-add-app-button.md)
   * [Creating Multiple Shapes](shape-essentials/your-first-shape/creating-multiple-shapes.md)
-  * [Adopting a Shape](shape-essentials/your-first-shape/adopting-a-shape.md)
 * [Talk with your shape](shape-essentials/talk-with-your-shape/README.md)
   * [Enhancing the interaction with shapes](shape-essentials/talk-with-your-shape/enhancing-the-interaction-with-shapes.md)
   * [Commands](shape-essentials/talk-with-your-shape/commands.md)

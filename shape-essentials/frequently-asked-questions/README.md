@@ -16,9 +16,9 @@ Inviting your bot is usually quite easy, although sometimes you may receive an e
 4. Disable **OAUTH2 CODE GRANT**.&#x20;
 5. Retry inviting your Discord bot.
 
-<div data-full-width="false"><figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Unable to Create In-App Authorization
 
@@ -28,7 +28,7 @@ Inviting your bot is usually quite easy, although sometimes you may receive an e
 
 ### Missing In-App Authorization Method
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 if you can’t find the “In-App Authorization” option, go back to the `Bot` section and make sure that `REQUIRES OAUTH2 CODE GRANT` option is disabled
 
