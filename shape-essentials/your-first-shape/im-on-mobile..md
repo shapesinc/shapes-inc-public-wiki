@@ -20,7 +20,7 @@ Hi there, please don’t skip anything and read everything carefully to make a s
 *   Click on the **Create App** button.\
 
 
-    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 *   Enter a name for your bot, accept the TOS, and save changes.\
 
 

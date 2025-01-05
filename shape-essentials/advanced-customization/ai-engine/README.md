@@ -25,7 +25,7 @@ Presets determine how your shape interacts with users. They are the foundation o
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -82,12 +82,7 @@ LTM allows your shape to reference past interactions or roleplays when generatin
 2. **Memory Similarity Threshold**
    * Controls how closely related a memory must be to the current context for it to be referenced.
    * Suggested value: **0.3** (lower values yield higher accuracy).
-3.  **Frequency**
-
-    * Shapes generate memories automatically, viewable in the **Memory** tab.
-
-    <div data-full-width="true"><figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure></div>
-4.  **Privacy Settings**\
+3.  **Privacy Settings**\
     Decide how private your shape’s conversations and memories should be.
 
     **Privacy Levels:**
@@ -95,6 +90,16 @@ LTM allows your shape to reference past interactions or roleplays when generatin
     * **Private:** DMs and server memories are isolated.
     * **Shared:** Memory is shared within the same server.
     * **Global:** Memories from DMs and servers are not isolated.
+
+
+
+**Frequency**
+
+* Shapes generate memories automatically (<mark style="color:yellow;">every 10 minutes</mark>), viewable in the **Memory** tab.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ***
 
@@ -106,7 +111,7 @@ This section manages how accurately your shape uses information stored in the **
 *   **Preferred value:** **0.3.**\
 
 
-    <figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+    <div data-full-width="false"><figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 

@@ -11,7 +11,7 @@ Make sure you have **2FA** enabled on your Discord account to create a team.&#x2
 * At [Discord Developer Portal](https://discord.com/developers/teams), go to [Teams](https://discord.com/developers/teams) tab.
 * Select **New Team**, put the name of your team and hit **Confirm**.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 * Go back to [Applications](https://discord.com/developers/applications) tab, and select **New Application**.
 * You will now see an option to select a **Team.**

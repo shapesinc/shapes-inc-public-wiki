@@ -16,7 +16,7 @@ Hi! Since you're here, it means that you've made your shape but are having a har
 3. **Access Your Shape's Dashboard**\
    Once you've clicked on your shape, you'll land on its dashboard.
    * **For smartphone users**: Open the selection menu.\
-     ![](<../../.gitbook/assets/image (1) (1) (1).png>)
+     ![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 4. **Add Your Shape to a Server**\
    Click on the **Add to Server** tab.\
    ![](<../../.gitbook/assets/image (2) (1) (1).png>)
