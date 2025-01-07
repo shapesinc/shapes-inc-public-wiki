@@ -39,7 +39,7 @@ now we're ready to get your shape's voice set up :sunglasses:
 
 <figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
-## 3. Voice models
+## 4. Voice models
 
 Here, You can select a voice model you want your shape to use.
 
@@ -49,7 +49,7 @@ v2.5 Flash, v2 Flash (fast)(default) are designed for low-latency applications l
 
 <figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption><p>Select a model</p></figcaption></figure>
 
-## 4. Bonus - turn on transcript
+## 5. Bonus - turn on transcript
 
 <figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 
