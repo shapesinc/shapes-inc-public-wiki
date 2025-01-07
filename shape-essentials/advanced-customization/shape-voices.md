@@ -43,11 +43,11 @@ now we're ready to get your shape's voice set up :sunglasses:
 
 Here, You can select a voice model you want your shape to use.
 
-Multilingual v2 is optimized for quality and accuracy, ideal for content creation. This model offers the best quality and stability but have higher latency.
+Multilingual v2 (slow) is optimized for quality and accuracy, ideal for content creation. This model offers the best quality and stability but have higher latency.
 
-v2.5 Flash, v2 Flash (fast)(default) are designed for low-latency applications like real-time conversational AI. They deliver great performance with faster processing speeds, though with a slight trade-off in accuracy and stability.
+Mutlilingual v2 and Eleven Flash v2 (english) are designed for low-latency applications like real-time conversational AI. They deliver great performance with faster processing speeds, though with a slight trade-off in accuracy and stability.
 
-<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption><p>Select a model</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption><p>Multilingual v2 is default</p></figcaption></figure>
 
 ## 5. Bonus - turn on transcript
 
