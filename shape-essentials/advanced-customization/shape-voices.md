@@ -39,6 +39,16 @@ now we're ready to get your shape's voice set up :sunglasses:
 
 <figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
+## 3. Voice models
+
+Here, You can select a voice model you want your shape to use.
+
+Multilingual v2 is optimized for quality and accuracy, ideal for content creation. This model offers the best quality and stability but have higher latency.
+
+v2.5 Flash, v2 Flash (fast)(default) are designed for low-latency applications like real-time conversational AI. They deliver great performance with faster processing speeds, though with a slight trade-off in accuracy and stability.
+
+<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption><p>Select a model</p></figcaption></figure>
+
 ## 4. Bonus - turn on transcript
 
 <figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
