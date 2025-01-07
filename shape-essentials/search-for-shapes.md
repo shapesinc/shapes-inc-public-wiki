@@ -60,3 +60,18 @@ Want to try a famous shape? `Popular` shows the top 30 shapes out of 300k+ shape
 
 <figure><img src="../.gitbook/assets/image (137).png" alt="" width="375"><figcaption></figcaption></figure>
 
+
+
+### If you'd like to update your shapes description you can do so on its profile page
+
+<figure><img src="../.gitbook/assets/Screenshot_20250107-120454.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot_20250107-120442.png" alt=""><figcaption></figcaption></figure>
+
+> [https://shapes.inc/explore](https://shapes.inc/explore) or use /dashboard in your shapes DM's to return to its page quickly
+
+### Coming soon! Hide your Shape from /search on its settings page!
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-01-07 123554.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/399127893-fb894e2b-68a1-45ef-a75a-ca47887d628d.png" alt=""><figcaption></figcaption></figure>
