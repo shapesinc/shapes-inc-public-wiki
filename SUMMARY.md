@@ -38,6 +38,7 @@
   * [Deleting a message from memory](shape-essentials/frequently-asked-questions/deleting-a-message-from-memory.md)
   * [Developer Mode](shape-essentials/frequently-asked-questions/developer-mode.md)
   * [Disabling a Shape](shape-essentials/frequently-asked-questions/disabling-a-shape.md)
+  * [Debug](shape-essentials/frequently-asked-questions/debug.md)
   * [External code commands](shape-essentials/frequently-asked-questions/external-code-commands.md)
   * [How can I make my shape use custom discord emojis?](shape-essentials/frequently-asked-questions/how-can-i-make-my-shape-use-custom-discord-emojis.md)
   * [I added my shape to a server but it didn't join!](shape-essentials/frequently-asked-questions/i-added-my-shape-to-a-server-but-it-didnt-join.md)

@@ -89,22 +89,6 @@ The usual go to for voice samples are:
 If you unboost the server, your shape's voice and its settings will be **deleted.**
 {% endhint %}
 
-
-
-## :warning:Depreciated :warning: Enabling shape voices through Discord
-
-## Send `/debug`
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-12 at 11.09.27 PM.png" alt=""><figcaption></figcaption></figure>
-
-## Use `!set voice` and attach audio file to the message
-
-<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>your file MUST be smaller than 10mb</p></figcaption></figure>
-
-_note: if you are using the command in a server, you must send `@shape !set voice` to have your shape recognize the command_
-
-_note: commands must be sent like_ `!set voice_frequency 0.5` _to set the voice frequency to 0.5. Setting the voice frequency to 0.5 will make the Shape send a voice message 50% of the time._
-
 ## Talk to your Shape like normal :)&#x20;
 
 <img src="../../.gitbook/assets/shoutingguy.png" alt="" data-size="original">
